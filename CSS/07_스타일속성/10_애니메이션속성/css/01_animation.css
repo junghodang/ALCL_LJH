@@ -25,7 +25,7 @@
     /* 종료시점 : 100% or to */
     0% { left: 0; }
     50% { 
-        left: calc(100% - 200px); 
+        left: calc(100% - 200px); /*계산하고 싶으면 칼*/
         transform: rotate( calc(360deg * 2) ); 
     }
     100% { left: 0; }

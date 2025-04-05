@@ -1,4 +1,4 @@
-package Chap04.Ex08_생성자;
+package Chap04.Ex08_예외처리;
 
 import java.util.Scanner;
 

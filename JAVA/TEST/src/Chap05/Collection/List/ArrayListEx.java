@@ -56,24 +56,15 @@ public class ArrayListEx {
             shoppingCart.add(product);
         }
 
-        for (int i = 0; i < shoppingCart.size(); i++ ){
-            System.out.print(shoppingCart.get(i) + " " );
+        for (int i = 0; i < shoppingCart.size(); i++) {
+            System.out.print( shoppingCart.get(i) + " " );
         }
         System.out.println();
         System.out.println("------------------------------------");
 
+
+
+        
         sc.close();
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
